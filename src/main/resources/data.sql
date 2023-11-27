@@ -1,0 +1,1 @@
+insert into hello values(1, 'Hello Spring Jdbc');
